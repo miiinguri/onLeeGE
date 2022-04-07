@@ -11,6 +11,7 @@
       <div class="wrap">
         <div class="slide">
           <ul>
+                          System.out.println("의 생일을 축하합니다♡");
             <li><img src="GE/01.jpg" alt="GE01" /></li>  
             <li><img src="GE/02.jpg" alt="GE02" /></li>  
             <li><img src="GE/03.jpg" alt="GE03" /></li>  
