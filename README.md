@@ -15,6 +15,7 @@
             <li><img src="GE/02.jpg" alt="GE02" /></li>  
             <li><img src="GE/03.jpg" alt="GE03" /></li>  
             <li><img src="GE/04.jpg" alt="GE04" /></li>
+            <li><img src="GE/960420.mp4" alt="GE04" /></li>
           </ul>
         </div>
       </div>
