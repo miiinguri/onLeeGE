@@ -11,10 +11,10 @@
       <div class="wrap">
         <div class="slide">
           <ul>
-            <li><img src="images/01.jpg" alt="image1" /></li>  
-            <li><img src="images/01.jpg" alt="image1" /></li>  
-            <li><img src="images/01.jpg" alt="image1" /></li>  
-            <li><img src="images/01.jpg" alt="image1" /></li>
+            <li><img src="GE/01.jpg" alt="image1" /></li>  
+            <li><img src="GE/02.jpg" alt="image1" /></li>  
+            <li><img src="GE/03.jpg" alt="image1" /></li>  
+            <li><img src="GE/04.jpg" alt="image1" /></li>
           </ul>
         </div>
       </div>
