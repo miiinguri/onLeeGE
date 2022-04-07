@@ -1,8 +1,5 @@
 # onLeeGE
 
-$ ng build --prod --base-href "<repo-name>"
-  
-  npm install --save ngx-webcam
 <!DOCTYPE html>
   <html lang="ko">
     <head>
