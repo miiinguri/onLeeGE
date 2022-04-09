@@ -7,7 +7,7 @@
       
       <style>
         #all{
-             background: rgb(250, 232, 255);
+             background-color: rgb(250, 232, 255);
         }
       </style>
     </head>
